@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: jinshi.servirus.solutions
+mx: mao.mao.servirus.solutions
+max_age: 86400
