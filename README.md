@@ -1,1 +1,1 @@
-# mta-sts-ser-ruso
+# MTA-STS Policy
